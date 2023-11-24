@@ -11,8 +11,11 @@ Navigation: Navigate between character lists and individual character details.
 Technologies Used:
 
 HTML
+
 CSS
+
 JavaScript (ES6)
+
 jQuery for DOM manipulation
 
 How to Use:
