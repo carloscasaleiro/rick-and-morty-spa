@@ -8,7 +8,7 @@ Character Details: Access detailed information about each character, including s
 Search Functionality: Utilize the search feature to find specific characters by name.
 Navigation: Navigate between character lists and individual character details.
 
-###Technologies Used:
+### Technologies Used:
 
 HTML
 
