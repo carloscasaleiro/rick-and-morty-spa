@@ -2,6 +2,7 @@
 
 This repository contains a Single Page Application (SPA) for exploring characters from the animated series "Rick and Morty." The application utilizes HTML, CSS, and JavaScript to present a user-friendly interface for browsing through character details.
 
+
 ### Features:
 
 Character List: View a list of characters with their basic information.
@@ -12,6 +13,7 @@ Search Functionality: Utilize the search feature to find specific characters by 
 
 Navigation: Navigate between character lists and individual character details.
 
+
 ### Technologies Used:
 
 HTML
@@ -21,6 +23,7 @@ CSS
 JavaScript (ES6)
 
 jQuery for DOM manipulation
+
 
 ### How to Use:
 
