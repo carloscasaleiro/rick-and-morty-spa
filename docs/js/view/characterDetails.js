@@ -16,6 +16,9 @@ const fields = ({ species, status, origin, location }) =>
     .append(goBack("detailsGoBack", "Back to list", characters.hash));
 
 export function showCharacterDetails(data) {
+
+  window.scrollTo(0,0);
+  
   $("#container")
     .empty()
     .append(background)

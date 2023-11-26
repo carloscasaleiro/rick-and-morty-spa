@@ -7,6 +7,9 @@ import { characters } from "../routes.js";
 import { cards } from "./components/card.js";
 
 export function showCharacterList(data) {
+
+  window.scrollTo(0,0);
+
   $("#container")
     .empty()
     .append(background)
