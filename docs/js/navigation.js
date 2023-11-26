@@ -13,5 +13,5 @@ export function goTo(path) {
 }
 
 export function hasParameter(parameter) {
-  return window.location.hash.includes(`?${parameter}`);
+  return window.location.hash.includes(`${parameter}`);
 }
