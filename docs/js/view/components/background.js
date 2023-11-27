@@ -5,6 +5,6 @@ export function background() {
 
   $('body').css({
     'background-image': `url('${imageUrl}')`,
-    'background-size': 'cover'
+    'background-size': 'contain'
   });
 }
