@@ -34,6 +34,6 @@ Use the search bar to find characters by name.
 Explore the diverse world of "Rick and Morty" characters through this intuitive SPA!
 
 ### Live Demo:
-Check out the live demo [here](https://carloscasaleiro.github.io/spaRickMorty/)!
+Check out the live demo [here](https://carloscasaleiro.github.io/rick.and-morty-spa/)!
 
 ![screenshot](https://github.com/carloscasaleiro/spaRickMorty/assets/139387646/f23ed469-b382-47f2-9fce-973cd67ef219)
