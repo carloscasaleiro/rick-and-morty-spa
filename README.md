@@ -25,12 +25,6 @@ JavaScript (ES6)
 jQuery for DOM manipulation
 
 
-### How to Use:
-
-Clone the repository.
-Open the index.html file in a web browser.
-Use the search bar to find characters by name.
-
 Explore the diverse world of "Rick and Morty" characters through this intuitive SPA!
 
 ### Live Demo:
